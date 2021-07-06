@@ -5,7 +5,7 @@
 - 📫 How to reach me ...
 http://www.instagram.com/zayan_127.0.0.1
 
-[![Danish's GitHub stats](https://github-readme-stats.vercel.app/api?username=danishzayan)](https://github.com/danishzayan/github-readme-stats)
+[![Danish's GitHub stats](https://github-readme-stats.vercel.app/api?username=danishzayan&show_icons=true)](https://github.com/danishzayan/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danishzayan)](https://github.com/danishzayan/github-readme-stats)
 

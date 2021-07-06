@@ -5,6 +5,8 @@
 - 📫 How to reach me ...
 http://www.instagram.com/zayan_127.0.0.1
 
+[![Danish's GitHub stats](https://github-readme-stats.vercel.app/api?username=danishzayan)](https://github.com/danishzayan/github-readme-stats)
+
 <!---
 danishzayan/danishzayan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

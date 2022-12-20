@@ -12,7 +12,7 @@
 - 📫 How to reach me ...
 http://www.instagram.com/zayan_127.0.0.1
 
-<h2> 🥞 Tech Stack</h2>
+## Tech Stack 🥞
 <p align="center">
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23fca9ae.svg?style=for-the-badge&logo=html5&logoColor=140200"/>
 <img alt="CSS3" src="https://img.shields.io/badge/css3-%23ffd2ce.svg?style=for-the-badge&logo=css3&logoColor=140200"/>
@@ -29,14 +29,15 @@ http://www.instagram.com/zayan_127.0.0.1
 <img alt="NextJs" src="https://img.shields.io/badge/next.js-%23fca9ae.svg?style=for-the-badge&logo=next.js&logoColor=140200" />
 <img alt="Canva" src="https://img.shields.io/badge/Canva-f2ca61.svg?style=for-the-badge&logo=canva&logoColor=140200"/>
 <img alt="Figma" src="https://img.shields.io/badge/figma-%23e4626b.svg?style=for-the-badge&logo=figma&logoColor=140200" />
-  </p>
-<br>
+ </p>
 
+## My GitHub Stats 📈
 [![Danish's GitHub stats](https://github-readme-stats.vercel.app/api?username=danishzayan&show_icons=true)](https://github.com/danishzayan/github-readme-stats)
 
+## GitHub Streak 🔥
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=danishzayan)](https://git.io/streak-stats)
 
-## HacktoberFest Badge-2022 
+## HacktoberFest Badge-2022 📛
 [![An image of @danishzayan's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/danishzayan)](https://holopin.io/@danishzayan)
 
 <!---

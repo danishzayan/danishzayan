@@ -5,12 +5,14 @@
 
 ![](https://komarev.com/ghpvc/?username=danishzayan)
 
-- 👋 Hi, I’m Danish Kamal
-- 👀 I’m interested in coding...
-- 🌱 I’m currently learning new things day by day ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-http://www.instagram.com/zayan_127.0.0.1
+## About Me 😎
+- 🎓 I am an **Postgradute Student**, pursuing **Master of Computer Application** at **MAANU**. <br>
+- 👀 I’m interested in Open Source, Web Development, UI and Programming.
+- 💬 I would love to talk about internship opportunities.
+- 💞️ I’m looking to collaborate on any open source platform.
+- 💡 I am currently focusing on **Data Structures and Algorithm** in **C++**.<br>
+- 📚 I am looking forward to enhance my knowledge by learning new skills and grow in the tech fields.
+- 📫 You can connect with me via this [link](https://www.linkedin.com/in/danishzayan/) or by [Mail]().
 
 ## Tech Stack 🥞
 <p align="center">

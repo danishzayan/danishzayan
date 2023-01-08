@@ -6,7 +6,7 @@
 ![](https://komarev.com/ghpvc/?username=danishzayan)
 
 ## About Me 😎
-- 🎓 I am an **Postgradute Student**, pursuing **Master of Computer Application** at **MAANU**. <br>
+- 🎓 I am a **Postgradute Student**, pursuing **Master of Computer Application** at **MAANU**. <br>
 - 👀 I’m interested in Open Source, Web Development, UI and Programming.
 - 💬 I would love to talk about internship opportunities.
 - 💞️ I’m looking to collaborate on any open source platform.

@@ -12,7 +12,7 @@
 - 💞️ I’m looking to collaborate on any open source platform.
 - 💡 I am currently focusing on **Data Structures and Algorithm** in **C++**.<br>
 - 📚 I am looking forward to enhance my knowledge by learning new skills and grow in the tech fields.
-- 📫 You can connect with me via this [link](https://www.linkedin.com/in/danishzayan/) or by [Mail]().
+- 📫 You can connect with me via this [link](https://danishkamal.netlify.app/#contacts).
 
 ## Tech Stack 🥞
 <p align="center">

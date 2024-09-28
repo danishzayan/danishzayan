@@ -39,8 +39,9 @@
 ## GitHub Streak 🔥
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=danishzayan)](https://git.io/streak-stats)
 
-## HacktoberFest Badge-2022 📛
+<!-- ## HacktoberFest Badge-2022 📛 
 [![An image of @danishzayan's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/danishzayan)](https://holopin.io/@danishzayan)
+--->
 
 <!---
 danishzayan/danishzayan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

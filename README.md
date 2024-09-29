@@ -37,9 +37,8 @@
 
 ## My GitHub Analytics 📈
 
-<!--
-<a href="https://github.com/danishzayan">
-   <img height="155em" src="https://raw.githubusercontent.com/danishzayan/github-card-template/master/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Danish github stats" />
-    <img height="155em" src="https://raw.githubusercontent.com/danishzayan/github-card-template/master/profile-summary-card-output/github_dark/3-stats.svg" alt="Danish github stats" />
-</a> -->
-<br>
+<p align="center">
+	<a href="#streak-stats">
+		<img src="https://streak-stats.demolab.com?user=danishzayan&theme=nightowl&hide_border=true&border_radius=7&date_format=j%20M%5B%20Y%5D" alt="danish"/>
+	</a>
+</p>

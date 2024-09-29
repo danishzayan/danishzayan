@@ -6,6 +6,7 @@
 ![](https://komarev.com/ghpvc/?username=danishzayan)
 
 ## About Me 😎
+
 - 🎓 I am a **Postgradute Student**, pursuing **Master of Computer Application**. <br>
 - 👀 I’m interested in Open Source, Web Development, UI and Programming.
 - 💬 I would love to talk about internship opportunities.
@@ -15,6 +16,7 @@
 - 📫 You can connect with me via this [link]
 
 ## Tech Stack 🥞
+
 <p align="center">
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23fca9ae.svg?style=for-the-badge&logo=html5&logoColor=140200"/>
 <img alt="CSS3" src="https://img.shields.io/badge/css3-%23ffd2ce.svg?style=for-the-badge&logo=css3&logoColor=140200"/>
@@ -33,17 +35,10 @@
 <img alt="Figma" src="https://img.shields.io/badge/figma-%23e4626b.svg?style=for-the-badge&logo=figma&logoColor=140200" />
  </p>
 
-## My GitHub Stats 📈
-[![Danish's GitHub stats](https://github-readme-stats.vercel.app/api?username=danishzayan&show_icons=true)](https://github.com/danishzayan/github-readme-stats)
+## My GitHub Analytics 📈
 
-## GitHub Streak 🔥
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=danishzayan)](https://git.io/streak-stats)
-
-<!-- ## HacktoberFest Badge-2022 📛 
-[![An image of @danishzayan's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/danishzayan)](https://holopin.io/@danishzayan)
---->
-
-<!---
-danishzayan/danishzayan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<a href="https://github.com/danishzayan">
+   <img height="155em" src="https://raw.githubusercontent.com/danishzayan/github-card-template/master/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Sanjay K V github stats" />
+    <img height="155em" src="https://raw.githubusercontent.com/danishzayan/github-card-template/master/profile-summary-card-output/github_dark/3-stats.svg" alt="Sanjay K V github stats" />
+</a>
+<br>

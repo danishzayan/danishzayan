@@ -7,9 +7,8 @@
 
 ## About Me 😎
 
-- 🎓 I am a **Postgradute Student**, pursuing **Master of Computer Application**. <br>
-- 👀 I’m interested in Open Source, Web Development, UI and Programming.
-- 💬 I would love to talk about internship opportunities.
+- 🎓 I am a **Postgradute** in **Master of Computer Application**. <br>
+- 👀 I’m interested in Open Source, Frontend and Programming.
 - 💞️ I’m looking to collaborate on any open source platform.
 - 💡 I am currently focusing on **Data Structures and Algorithm** in **C++**.<br>
 - 📚 I am looking forward to enhance my knowledge by learning new skills and grow in the tech fields.

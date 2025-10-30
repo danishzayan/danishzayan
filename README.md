@@ -34,14 +34,6 @@
 <img alt="Figma" src="https://img.shields.io/badge/figma-%23e4626b.svg?style=for-the-badge&logo=figma&logoColor=140200" />
  </p>
 
-## My GitHub Analytics 📈
-
-<p align="center">
-	<a href="#streak-stats">
-		<img src="https://streak-stats.demolab.com?user=danishzayan&theme=nightowl&hide_border=true&border_radius=7&date_format=j%20M%5B%20Y%5D" alt="danish"/>
-	</a>
-</p>
-
 <div>
 
 [![Shreyash's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=danishzayan&hide_border=true&theme=nightowl)](https://github.com/danishzayan/github-readme-activity-graph)

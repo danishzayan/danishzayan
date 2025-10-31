@@ -6,13 +6,11 @@
 ![](https://komarev.com/ghpvc/?username=danishzayan)
 
 ## About Me 😎
+I’m Danish Kamal, a passionate Software Engineer specializing in Frontend Development with React.js, Next.js, JavaScript and TypeScript.
+I’m constantly exploring AI/ML, Cloud Infrastructure, and CI/CD best practices.
+Ask me about React, Next.js, TypeScript, Node.js, LLMs, or Docker.
 
-- 🎓 I am a **Postgradute** in **Master of Computer Application**. <br>
-- 👀 I’m interested in Open Source, Frontend and Programming.
-- 💞️ I’m looking to collaborate on any open source platform.
-- 💡 I am currently focusing on **Data Structures and Algorithm** in **C++**.<br>
-- 📚 I am looking forward to enhance my knowledge by learning new skills and grow in the tech fields.
-- 📫 You can connect with me via this [link]
+Fun fact: I love sleeping first, then discovering or learning new things, places, or ideas!
 
 ## Tech Stack 🥞
 

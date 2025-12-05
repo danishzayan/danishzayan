@@ -34,6 +34,6 @@ Fun fact: I love sleeping first, then discovering or learning new things, places
 
 <div>
 
-[![Shreyash's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=danishzayan&hide_border=true&theme=nightowl)](https://github.com/danishzayan/github-readme-activity-graph)
+
 
 </div>

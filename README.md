@@ -10,7 +10,7 @@ I’m Danish, a passionate Software Engineer specializing in Frontend and Backen
 I’m constantly exploring AI/ML, Cloud Infrastructure, and CI/CD best practices.
 Ask me about React, Next.js, TypeScript, Node.js, LLMs, or Docker.
 
-Fun fact: I love sleeping first, then discovering or learning new things, places, or ideas!
+Fun fact: I love Capturing first, then discovering or learning new things, places, or ideas!
 
 ## Tech Stack 🥞
 
